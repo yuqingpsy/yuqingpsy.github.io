@@ -50,15 +50,18 @@ education:
     institution: Dartmouth College
     date_start: 2011-09
     date_end: 2016-06
+    summary: ''
   - area: BS Psychology
     institution: Peking University
     date_start: 2007-09
     date_end: 2011-07
+    summary: ''
   - area: BS Mathematics (double major)
     institution: Peking University
     date_start: 2008-09
     date_end: 2011-07
-
+    summary: ''
+    
 work:
   - position: Principal Investigator
     company_name: Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences
@@ -66,18 +69,21 @@ work:
     company_logo: ''
     date_start: 2020-09
     date_end: ''
+    summary: ''
   - position: Research Scientist
     company_name: University of Wisconsin-Madison
     company_url: ''
     company_logo: ''
     date_start: 2019-02
     date_end: 2020-07
+    summary: ''
   - position: Postdoctoral Research Associate
     company_name: University of Wisconsin-Madison
     company_url: ''
     company_logo: ''
     date_start: 2016-10
     date_end: 2019-01
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
