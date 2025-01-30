@@ -112,3 +112,5 @@ work:
 
 ## About Me
 Qing Yu is currently a Principal Investigator at Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, leading the Lab of Visual Cognition and Memory. Her broad research interests includes the neural and computational principles underlying human cognition, with a specific focus on working memory, mental imagery, and cognitive control.
+
+---
