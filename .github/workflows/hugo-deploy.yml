@@ -51,11 +51,6 @@ jobs:
         ls -la ./public
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: public
-        path: ./public
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -66,5 +61,8 @@ jobs:
     needs: build
     steps:
     - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: gh-pages
