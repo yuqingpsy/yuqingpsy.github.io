@@ -2,9 +2,9 @@
 title: Stimulus representation in human frontal cortex supports flexible control in
   working memory
 authors:
-- Zhujun Shao
-- Mengya Zhang
-- Qing Yu
+- Z. Shao
+- M. Zhang
+- Q. Yu
 date: '2024-01-01'
 publishDate: '2025-01-29T11:29:15.717272Z'
 publication_types:
