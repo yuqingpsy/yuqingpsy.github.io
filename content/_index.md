@@ -14,10 +14,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+#      # Show a call-to-action button under your biography? (optional)
+#      button:
+#        text: Download CV
+#        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -67,6 +67,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Positions'
+      subtitle: ''
+      text: |-
+        I am actively looking for talented postdocs and graduate students to join the lab.
+    design:
+      columns: '1'
   #- block: collection
   #  id: talks
   #  content:
