@@ -3,7 +3,7 @@ title: Spatial summation revealed in the earliest visual evoked component C1 and
   effect of attention on its linearity
 authors:
 - J. Chen
-- Q. Yu
+- admin
 - Z. Zhu
 - Y. Peng
 - F. Fang
