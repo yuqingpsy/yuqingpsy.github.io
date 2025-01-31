@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-2
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         Humans encounter massive amounts of information every day. The abilities to make effective selections on external input, to internally generate novel information in the absence of external input, to perform different levels of processing in different scenarios, and to make corresponding actions according to current task goals, constitute the core of human cognition, and underlie higher-level cognition such as inference, language comprehension, and problem solving. The primary interest of our lab is therefore to understand the neural mechanisms that underlie such complex and flexible behaviors.  
