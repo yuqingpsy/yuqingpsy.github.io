@@ -48,18 +48,18 @@ interests:
 education:
   - area: PhD Cognitive Neuroscience
     institution: Dartmouth College
-    date_start: 2011-09
-    date_end: 2016-06
+    date_start: 2011-09-01
+    date_end: 2016-06-01
     summary: ''
   - area: BS Psychology
     institution: Peking University
-    date_start: 2007-09
-    date_end: 2011-07
+    date_start: 2007-09-01
+    date_end: 2011-07-01
     summary: ''
   - area: BS Mathematics (double major)
     institution: Peking University
-    date_start: 2008-09
-    date_end: 2011-07
+    date_start: 2008-09-01
+    date_end: 2011-07-01
     summary: ''
     
 work:
@@ -67,22 +67,22 @@ work:
     company_name: Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
-    date_start: 2020-09
+    date_start: 2020-09-01
     date_end: ''
     summary: ''
   - position: Research Scientist
     company_name: University of Wisconsin-Madison
     company_url: ''
     company_logo: ''
-    date_start: 2019-02
-    date_end: 2020-07
+    date_start: 2019-02-01
+    date_end: 2020-07-01
     summary: ''
   - position: Postdoctoral Research Associate
     company_name: University of Wisconsin-Madison
     company_url: ''
     company_logo: ''
-    date_start: 2016-10
-    date_end: 2019-01
+    date_start: 2016-10-01
+    date_end: 2019-01-01
     summary: ''
 
 ---
