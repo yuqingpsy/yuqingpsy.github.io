@@ -44,12 +44,11 @@ sections:
         2. Humans can construct rich internal experience, even in the absence of any external input. How do we generate vivid visual imagery in our brain? How is mental imagery different from perceptual and mnemonic experiences derived externally? 
 
         3. Both working memory and mental imagery rely on representations of abstract knowledge and concepts in the brain. Abstract representations provide a basis for fast, effective learning and generalization during flexible behaviors. We are particularly interested how abstract structural information (such as concrete and abstract contextual information) is represented in working memory and imagery to facilitate behavior. Along this line of research, we hope to start to understand how working memory and long-term memory interact in the brain. 
-
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
+  #- block: collection
+  #  id: papers
+  #  content:
     #  title: Featured Publications
     #  filters:
     #    folders:
