@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research'
+date: ''
 type: landing
 
 design:
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research
+      text: My broad research interests include the neural and computational principles underlying human cognition, with a special focus on working memory, mental imagery, and related cognitive processes.
       filters:
         folders:
           - project
