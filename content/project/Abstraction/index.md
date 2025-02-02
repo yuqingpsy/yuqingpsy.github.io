@@ -1,8 +1,8 @@
 ---
 title: Abstraction
-date: ''
-external_link: ''
-tags: ''
+#date: ''
+#external_link: ''
+#tags: ''
 
 ---
 
