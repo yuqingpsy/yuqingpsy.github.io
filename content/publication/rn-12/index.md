@@ -2,7 +2,7 @@
 title: The Neural Codes Underlying Internally Generated Representations in Visual
   Working Memory
 authors:
-- Q. Yu
+- admin
 - B. R. Postle
 date: '2021-01-01'
 publishDate: '2025-01-29T11:29:15.683364Z'

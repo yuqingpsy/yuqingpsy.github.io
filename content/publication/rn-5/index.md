@@ -4,7 +4,7 @@ title: Overlapping and distinct contributions of stimulus location and of spatia
 authors:
 - Y. Cai
 - A. D. Sheldon
-- Q. Yu
+- admin
 - B. R. Postle
 date: '2019-01-01'
 publishDate: '2025-01-29T11:29:15.625960Z'

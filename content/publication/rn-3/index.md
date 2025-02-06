@@ -2,7 +2,7 @@
 title: Occipital, parietal, and frontal cortices selectively maintain task-relevant
   features of multi-feature objects in visual working memory
 authors:
-- Q. Yu
+- admin
 - W. M. Shim
 date: '2017-01-01'
 publishDate: '2025-01-29T11:29:15.602395Z'

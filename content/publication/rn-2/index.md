@@ -2,7 +2,7 @@
 title: Modulating foveal representation can influence visual discrimination in the
   periphery
 authors:
-- Q. Yu
+- admin
 - W. M. Shim
 date: '2016-01-01'
 publishDate: '2025-01-29T11:29:15.594128Z'

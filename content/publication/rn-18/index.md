@@ -3,7 +3,7 @@ title: The representation of abstract goals in working memory is supported by ta
   neural geometry
 authors:
 - M. Zhang
-- Q. Yu
+- admin
 date: '2024-01-01'
 publishDate: '2025-01-29T11:29:15.732226Z'
 publication_types:

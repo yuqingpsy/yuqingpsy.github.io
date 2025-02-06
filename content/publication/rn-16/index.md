@@ -3,7 +3,7 @@ title: Distinct neural signatures underlying information maintenance and manipul
   in working memory
 authors:
 - D. Shi
-- Q. Yu
+- admin
 date: '2024-01-01'
 publishDate: '2025-01-29T11:29:15.723981Z'
 publication_types:

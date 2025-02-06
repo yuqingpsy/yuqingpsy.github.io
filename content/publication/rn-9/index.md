@@ -2,7 +2,7 @@
 title: Delay-period activity in frontal, parietal, and occipital cortex tracks noise
   and biases in visual working memory
 authors:
-- Q. Yu
+- admin
 - M. F. Panichello
 - Y. Cai
 - B. R. Postle

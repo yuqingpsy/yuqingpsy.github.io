@@ -2,8 +2,8 @@
 title: Neural Correlates of the Conscious Perception of Visual Location Lie Outside
   Visual Cortex
 authors:
-- S. Liu*
-- Q. Yu*
+- S. Liu#
+- admin#
 - P. U. Tse
 - P. Cavanagh
 date: '2019-01-01'

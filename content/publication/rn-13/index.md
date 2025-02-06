@@ -2,7 +2,7 @@
 title: Strategic control of location and ordinal context in visual working memory
 authors:
 - J. M. Fulvio
-- Q. Yu
+- admin
 - B. R. Postle
 date: '2023-01-01'
 publishDate: '2025-01-29T11:29:15.691522Z'

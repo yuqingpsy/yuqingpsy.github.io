@@ -3,7 +3,7 @@
 title: Qing Yu
 
 # Name pronunciation (optional)
-name_pronunciation: '俞青'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Qing

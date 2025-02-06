@@ -2,7 +2,7 @@
 title: Temporal-Order-Based Attentional Priority Modulates Mnemonic Representations
   in Parietal and Frontal Cortices
 authors:
-- Q. Yu
+- admin
 - W. M. Shim
 date: '2019-01-01'
 publishDate: '2025-01-29T11:29:15.642295Z'

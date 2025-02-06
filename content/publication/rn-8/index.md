@@ -2,7 +2,7 @@
 title: Different states of priority recruit different neural representations in visual
   working memory
 authors:
-- Q. Yu
+- admin
 - C. Teng
 - B. R. Postle
 date: '2020-01-01'

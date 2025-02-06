@@ -2,7 +2,7 @@
 title: Neuroimaging and the localization of function in visual cognition
 authors:
 - B. R. Postle
-- Q. Yu
+- admin
 date: '2020-01-01'
 publishDate: '2025-01-29T11:29:15.659134Z'
 publication_types:
