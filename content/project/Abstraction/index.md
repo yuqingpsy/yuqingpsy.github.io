@@ -6,6 +6,6 @@ title: Abstraction
 
 ---
 
-How does the brain represent abstract knowledge and concepts to facilitate learning?
+How does the brain represent abstract knowledge and concepts to facilitate learning and cognitive control?
 
 <!--more-->

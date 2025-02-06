@@ -44,7 +44,7 @@ interests:
   - Cognitive Neuroscience
   - Working Memory
   - Mental Imagery
-  - Cognitive Control
+  - Cognitive Control and Abstraction
 
 education:
   - area: PhD Cognitive Neuroscience

@@ -40,13 +40,16 @@ sections:
         Our research integrates functional magnetic resonance imaging (fMRI), scalp electroencephalography (EEG), magnetoencephalography (MEG), intracranial EEG (iEEG), with psychophysics and computational modeling, to investigate the neural mechanisms underlying visual and high-level cognition. Specifically, we focus on the following areas:  
 
         1. Working memory
-        We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavior demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. We approach this question by asking how memory maintenance and manipulation are differentially supported by the distributed cortical network? 
+        
+        We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavior demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. How are maintenance and manipulation functions of working memory supported by the distributed cortical network?
 
         2. Mental imagery
-        Humans can construct rich internal experiences even in the absence of external sensory input. How do we generate vivid visual imagery in our brain? How does internally-constructed mental imagery differ from perceptual and mnemonic experiences derived externally? 
+        
+        Humans can construct rich internal experiences even in the absence of external sensory input. How do we generate vivid imagery experiences in our brain? How does internally-constructed mental imagery differ from perceptual and mnemonic experiences derived externally? 
 
-        3. Cognitive control and abstract representation
-        Both working memory and mental imagery rely on abstract representations of knowledge and concepts. Abstract representations provide a basis for fast, effective learning and generalization during flexible behaviors. We are particularly interested how abstract information (such as concrete and abstract structural information) is represented in working memory and imagery to facilitate behavior. Along this line of research, we aim to elucidate how working memory and long-term memory interact in the brain. 
+        3. Cognitive control and Abstraction
+        
+        Both working memory and mental imagery rely on abstract representations of knowledge and concepts. Abstract representations provide a foundation for fast, effective learning and generalization during flexible behaviors. We are particularly interested how abstract information (such as concrete and abstract structural information) is represented in working memory and imagery. Along this line of research, we aim to elucidate how working memory and long-term memory interact in the brain. 
     design:
       columns: '1'
   #- block: collection
