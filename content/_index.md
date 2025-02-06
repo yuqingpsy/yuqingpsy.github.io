@@ -41,7 +41,7 @@ sections:
 
         1. Working memory
         
-        We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavior demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. How are maintenance and manipulation functions of working memory supported by the distributed cortical network?
+        We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavioral demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. How are maintenance and manipulation functions of working memory supported by the distributed cortical network?
 
         2. Mental imagery
         
