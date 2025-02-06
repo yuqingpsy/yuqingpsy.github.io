@@ -3,7 +3,7 @@ title: Parietal-Occipital Interactions Underlying Control- and Representation-Re
   Processes in Working Memory for Nonspatial Visual Features
 authors:
 - O. Gosseries#
-- admin#
+- Qing Yu#
 - J. J. LaRocque
 - M. J. Starrett
 - N. S. Rose
