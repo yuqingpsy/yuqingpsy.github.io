@@ -35,15 +35,18 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Humans encounter massive amounts of information every day. The abilities to make effective selections on external input, to internally generate novel information in the absence of external input, to perform different levels of processing in different scenarios, and to make corresponding actions according to current task goals, constitute the core of human cognition, and underlie higher-level cognition such as inference, language comprehension, and problem solving. The primary interest of our lab is therefore to understand the neural mechanisms that underlie such complex and flexible behaviors.  
+        Humans encounter vast amounts of information at every moment. The ability to perform complex mental computations and adapt flexibly to the changing environments constitutes the core of human cognition, and underlies higher-level cognition such as inference, language comprehension, and problem solving. The primary objective of my lab is to understand the neural mechanisms underlying such complex and flexible behaviors.  
 
-        Our work combines functional magnetic resonance imaging (fMRI), scalp electroencephalography (EEG), megnetoencephalography (MEG), intracranial EEG (iEEG), with psychophysics and computational modeling, to understand the neural mechanisms underlying visual and high-level cognition. Specifically:  
+        Our research integrates functional magnetic resonance imaging (fMRI), scalp electroencephalography (EEG), magnetoencephalography (MEG), intracranial EEG (iEEG), with psychophysics and computational modeling, to investigate the neural mechanisms underlying visual and high-level cognition. Specifically, we focus on the following areas:  
 
-        1. We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavior demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. We approach this question by asking how memory maintenance and manipulation are differentially supported by the distributed cortical network of working memory? 
+        1. Working memory
+        We are interested in the neural mechanism of working memory, the ability to maintain and manipulate information in mind for a short period of time in order to serve current behavior demands. Previous work has suggested a distributed cortical network in working memory, including sensory, parietal, and frontal cortex; yet the respective contribution of these cortical regions in working memory has remained elusive. We approach this question by asking how memory maintenance and manipulation are differentially supported by the distributed cortical network? 
 
-        2. Humans can construct rich internal experience, even in the absence of any external input. How do we generate vivid visual imagery in our brain? How is mental imagery different from perceptual and mnemonic experiences derived externally? 
+        2. Mental imagery
+        Humans can construct rich internal experiences even in the absence of external sensory input. How do we generate vivid visual imagery in our brain? How does internally-constructed mental imagery differ from perceptual and mnemonic experiences derived externally? 
 
-        3. Both working memory and mental imagery rely on representations of abstract knowledge and concepts in the brain. Abstract representations provide a basis for fast, effective learning and generalization during flexible behaviors. We are particularly interested how abstract structural information (such as concrete and abstract contextual information) is represented in working memory and imagery to facilitate behavior. Along this line of research, we hope to start to understand how working memory and long-term memory interact in the brain. 
+        3. Cognitive control and abstract representation
+        Both working memory and mental imagery rely on abstract representations of knowledge and concepts. Abstract representations provide a basis for fast, effective learning and generalization during flexible behaviors. We are particularly interested how abstract information (such as concrete and abstract structural information) is represented in working memory and imagery to facilitate behavior. Along this line of research, we aim to elucidate how working memory and long-term memory interact in the brain. 
     design:
       columns: '1'
   #- block: collection
@@ -72,7 +75,7 @@ sections:
       title: 'Positions'
       subtitle: ''
       text: |-
-        I am actively looking for talented postdocs and graduate students to join the lab.
+        I am actively seeking talented postdocs and graduate students to join the lab. Please email me with your CV if you are interested!
     design:
       columns: '1'
   #- block: collection
