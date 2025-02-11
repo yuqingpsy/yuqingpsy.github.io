@@ -60,4 +60,5 @@ jobs:
     - name: Confirm Deployment (debugging)
       run: |
         echo "Confirming deployment to GitHub Pages"
-        curl -s https://api.github.com/repos/${{ github.repository }}/pages
+        #curl -s https://api.github.com/repos/${{ github.repository }}/pages
+        curl -s https://api.github.com/repos/qingyu/pages
