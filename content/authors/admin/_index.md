@@ -24,7 +24,7 @@ role: Principal Investigator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Neuroscience, Chinese Academy of Sciences
+  - name: Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China
     url: http://english.cebsit.cas.cn/lab/yuqing/research/
 
 # Social network links
