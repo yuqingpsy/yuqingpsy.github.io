@@ -4,7 +4,7 @@ title: Spatiotemporal dynamics of self-generated imagery reveal a reverse cortic
 authors:
 - Y. Hu
 - admin
-date: '2023-01-01'
+date: '2023-10-12'
 publishDate: '2025-01-29T11:29:15.699851Z'
 publication_types:
 - article-journal
