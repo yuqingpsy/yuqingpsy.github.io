@@ -4,7 +4,7 @@ title: Occipital, parietal, and frontal cortices selectively maintain task-relev
 authors:
 - admin
 - W. M. Shim
-date: '2017-01-01'
+date: '2017-08-15'
 publishDate: '2025-01-29T11:29:15.602395Z'
 publication_types:
 - article-journal

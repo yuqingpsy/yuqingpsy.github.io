@@ -4,7 +4,7 @@ title: Modulating foveal representation can influence visual discrimination in t
 authors:
 - admin
 - W. M. Shim
-date: '2016-01-01'
+date: '2016-02-16'
 publishDate: '2025-01-29T11:29:15.594128Z'
 publication_types:
 - article-journal

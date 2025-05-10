@@ -4,7 +4,7 @@ title: Temporal-Order-Based Attentional Priority Modulates Mnemonic Representati
 authors:
 - admin
 - W. M. Shim
-date: '2019-01-01'
+date: '2018-08-15'
 publishDate: '2025-01-29T11:29:15.642295Z'
 publication_types:
 - article-journal

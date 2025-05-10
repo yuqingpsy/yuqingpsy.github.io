@@ -3,7 +3,7 @@ title: Separating the present and the future
 authors:
 - admin
 - B. R. Postle
-date: '2018-01-01'
+date: '2000-08-01'
 publishDate: '2025-01-29T11:29:15.619091Z'
 publication_types:
 - article-journal
