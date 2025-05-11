@@ -33,5 +33,5 @@ tags:
   memory
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/28559190
+  url: https://doi.org/10.1016/j.neuroimage.2017.05.055
 ---

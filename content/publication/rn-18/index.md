@@ -4,7 +4,7 @@ title: The representation of abstract goals in working memory is supported by ta
 authors:
 - M. Zhang
 - admin
-date: '2024-01-01'
+date: '2024-12-19'
 publishDate: '2025-01-29T11:29:15.732226Z'
 publication_types:
 - article-journal
@@ -33,5 +33,5 @@ tags:
   imaging Brain/physiology/diagnostic imaging
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/39700265
+  url: https://doi.org/10.1371/journal.pbio.3002461
 ---

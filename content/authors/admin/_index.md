@@ -35,6 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/_Qing_Yu
+  - icon: assets/media/icons/Bluesky_Logo
+    url: https://bsky.app/profile/qing-yu.bsky.social   
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=PJqfMtwAAAAJ
   - icon: academicons/orcid

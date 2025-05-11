@@ -38,5 +38,5 @@ tags:
   cortex
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/31761706
+  url: https://doi.org/10.1016/j.cub.2019.10.033
 ---

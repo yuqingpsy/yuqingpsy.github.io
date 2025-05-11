@@ -36,5 +36,5 @@ tags:
   Humans Male Orientation Psychophysics Visual Perception/*physiology Young Adult
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/26885627
+  url: https://doi.org/10.1167/16.3.15
 ---

@@ -33,5 +33,5 @@ tags:
 - Short-Term Parietal Lobe Photic Stimulation *Visual Perception
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/34428785
+  url: https://doi.org/10.1162/jocn_a_01702
 ---

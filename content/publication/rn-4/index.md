@@ -56,5 +56,5 @@ tags:
   working memory
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/29636395
+  url: https://doi.org/10.1523/JNEUROSCI.2747-17.2018
 ---

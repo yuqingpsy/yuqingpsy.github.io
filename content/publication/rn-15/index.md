@@ -32,5 +32,5 @@ tags:
   working memory'
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/37831604
+  url: https://doi.org/10.1016/j.celrep.2023.113242
 ---

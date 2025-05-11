@@ -50,5 +50,5 @@ tags:
   reverse hierarchy visual imagery
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/37582626
+  url: https://doi.org/10.1523/JNEUROSCI.0592-23.2023
 ---

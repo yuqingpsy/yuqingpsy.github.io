@@ -36,5 +36,5 @@ tags:
   cortex temporal order visual working memory
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/30124789
+  url: https://doi.org/10.1093/cercor/bhy184
 ---

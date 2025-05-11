@@ -4,7 +4,7 @@ title: Distinct neural signatures underlying information maintenance and manipul
 authors:
 - D. Shi
 - admin
-date: '2024-01-01'
+date: '2024-03-03'
 publishDate: '2025-01-29T11:29:15.723981Z'
 publication_types:
 - article-journal
@@ -36,5 +36,5 @@ tags:
   rotation sustained potentials working memory
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/38436467
+  url: https://doi.org/10.1093/cercor/bhae063
 ---
